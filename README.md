@@ -1,1 +1,0 @@
-# SQL-projesct1
